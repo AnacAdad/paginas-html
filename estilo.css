@@ -1,0 +1,44 @@
+/* estilo.css */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 40px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  color: #e91e63;
+}
+
+h2 {
+  color: #3f51b5;
+  margin-top: 30px;
+}
+
+em {
+  color: #555;
+}
+
+hr {
+  margin: 30px 0;
+}
+
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+a {
+  color: #009688;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.links {
+  margin-top: 30px;
+}
